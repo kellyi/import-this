@@ -2,4 +2,4 @@ deploy:
   skip_cleanup: true
   provider: surge
   project: app/
-  domain: https://import-this.surge.sh
+  domain: https://imaginative-computation.surge.sh
